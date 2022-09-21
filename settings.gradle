@@ -1,0 +1,4 @@
+rootProject.name = 'pivot_int'
+include 'client'
+include 'server'
+
